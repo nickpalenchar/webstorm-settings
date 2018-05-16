@@ -6,6 +6,7 @@
       <mapping pattern="vsg" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="linkOptions" type="PLAIN_TEXT" />
+      <mapping pattern="update" type="PLAIN_TEXT" />
       <mapping pattern="materialColorsHash.js" type="PLAIN_TEXT" />
       <mapping pattern=".key" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
