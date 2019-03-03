@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ms" type="Handlebars/Mustache" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="vsg" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
@@ -9,6 +10,7 @@
       <mapping pattern="update" type="PLAIN_TEXT" />
       <mapping pattern="materialColorsHash.js" type="PLAIN_TEXT" />
       <mapping pattern=".key" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
